@@ -4,7 +4,7 @@ This is the launch file and yaml file that the project runs on.You can clone thi
 1. [livox-SDK](https://github.com/Livox-SDK/Livox-SDK2.git)
 2. [Point-LIO](https://github.com/hku-mars/Point-LIO) and [livox_ros_driver2](https://github.com/Livox-SDK/livox_ros_driver2) in a file bag.
 ## run
-Put the project file into [Point-LIO](https://github.com/hku-mars/Point-LIO), Change the whole document from `livox_ros_driver` to `livox_ros_driver2`.
+git clone the project file into [Point-LIO](https://github.com/hku-mars/Point-LIO), Change the whole document from `livox_ros_driver` to `livox_ros_driver2`.
 ```catkin_make```
 # After lidar operation
 ```
