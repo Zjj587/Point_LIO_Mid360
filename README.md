@@ -1,6 +1,6 @@
 This is the changed package, you can clone it and compile it directly. 
 ## Prerequisites
-
+[livox-SDK2](https://github.com/Livox-SDK/Livox-SDK2.git)
 ## compile
 ```
     cd ~/point-lio-mid360/src
