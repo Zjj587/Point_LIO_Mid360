@@ -17,6 +17,7 @@ roslaunch livox_ros_driver2 msg_MID360.launch
 # terminal 2: run point_lio
 roslaunch point_lio mapping_mid360.launch
 ```
+![demo](https://github.com/Zjj587/Point_LIO_Mid360/blob/main/demo.png)
 # Acknowledgements
 
 Thanks to Point-LIO code authors. 
